@@ -1,7 +1,7 @@
 {
 	"name": "@Devecorsoft/cron",
 	"description": "Forked from https://github.com/kelektiv/node-cron and enhance cron time to support nodeless",
-	"version": "2.1.0",
+	"version": "2.1.1",
 	"author": "Nick Campbell <nicholas.j.campbell@gmail.com> (http://github.com/ncb000gt)",
 	"bugs": {
 		"url": "http://github.com/kelektiv/node-cron/issues"
